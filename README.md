@@ -1,4 +1,4 @@
-### My Satats
+### My Stats
   <div align="left">
   <a href="https://github.com/DamienFinarfim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamienFinarfim&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
