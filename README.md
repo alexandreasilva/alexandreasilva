@@ -1,5 +1,5 @@
 # Alexandre Almeida Silva
-## Estudande de Engenharia de Controle e Automação / Programador
+## Control and Automation Engineer / Programmer
 ### My Stats
   <div align="left">
   <a href="https://github.com/DamienFinarfim">
