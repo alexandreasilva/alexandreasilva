@@ -1,100 +1,20 @@
-<!-- Este código é uma mistura de HTML e Markdown que pode ser usado no README.md do GitHub -->
+# Hi... I'm Alexandre  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<h1>Hi... I'm Alexandre
+About me I have degrees in Control and Automation Engineering and Information Systems, with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I aim to apply concepts of control, automation, and data analysis to develop smart and efficient solutions.
 
-<p>A Full Stack Developer and an advocate for building responsive, accessible and inclusive digital products and experiences for the web based in Nairobi, Kenya.</p>
+[- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
 
-<h2>🛠️ Languages and Tools:</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=python,r,sql,vscode,git,github&perline=13)](#)
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-</div>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-<h2>🚀 Github Stats</h2>
+ [![Alexandre's github stats](https://bad-apple-github-readme.vercel.app/api?username=johnmwendwa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<div style="background-color: #0d1117; color: #58a6ff; padding: 15px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <h3>Alexandre's GitHub Stats</h3>
-  
-  <div style="display: flex; align-items: center;">
-    <div style="margin-right: 20px;">
-      <p>⭐ Total Stars: <span style="color: #00ff00;">2.2k</span></p>
-      <p>🔄 Total Commits (2025): <span style="color: #00ff00;">630</span></p>
-      <p>🔀 Total PRs: <span style="color: #00ff00;">111</span></p>
-      <p>❓ Total Issues: <span style="color: #00ff00;">55</span></p>
-      <p>🤝 Contributed to: <span style="color: #00ff00;">3</span></p>
-    </div>
-    <div style="width: 100px; height: 100px; border-radius: 50%; border: 3px solid #00ff00; position: relative;">
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; color: #00ff00;">$</div>
-    </div>
-  </div>
-</div>
+[![Alexandre's current streak](https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<div style="background-color: #0d1117; color: #58a6ff; padding: 15px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <h3>Most Used Languages</h3>
-  
-  <div>
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <span style="color: #3178c6; font-size: 20px;">●</span>
-      <span style="margin-left: 5px;">TypeScript 31.55%</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <span style="color: #f7df1e; font-size: 20px;">●</span>
-      <span style="margin-left: 5px;">JavaScript 31.25%</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <span style="color: #e34c26; font-size: 20px;">●</span>
-      <span style="margin-left: 5px;">HTML 20.44%</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <span style="color: #264de4; font-size: 20px;">●</span>
-      <span style="margin-left: 5px;">CSS 15.97%</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <span style="color: #00A000; font-size: 20px;">●</span>
-      <span style="margin-left: 5px;">Handlebars 0.21%</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <span style="color: #89e051; font-size: 20px;">●</span>
-      <span style="margin-left: 5px;">Shell 0.18%</span>
-    </div>
-  </div>
-</div>
-
-<div style="background-color: #0d1117; color: #58a6ff; padding: 15px; border-radius: 6px; margin: 10px 0; display: flex; justify-content: space-between; width: 100%;">
-  <div style="text-align: center; width: 33%;">
-    <h2 style="color: #58a6ff;">6,282</h2>
-    <p>Total Contributions</p>
-    <small style="color: #7d8590;">Oct 10, 2020 - Present</small>
-  </div>
-  
-  <div style="text-align: center; width: 33%;">
-    <h2 style="color: #58a6ff;">0</h2>
-    <p>Current Streak</p>
-    <small style="color: #7d8590;">Apr 13</small>
-  </div>
-  
-  <div style="text-align: center; width: 33%;">
-    <h2 style="color: #58a6ff;">241</h2>
-    <p>Longest Streak</p>
-    <small style="color: #7d8590;">Sep 5, 2022 - May 3, 2023</small>
-  </div>
-</div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
