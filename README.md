@@ -5,7 +5,7 @@ About me I have degrees in Control and Automation Engineering and Information Sy
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=python,r,sql,vscode,git,github&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,vscode,git,github&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
