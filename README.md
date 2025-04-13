@@ -1,43 +1,8 @@
 <!-- Este código é uma mistura de HTML e Markdown que pode ser usado no README.md do GitHub -->
 
-<h1>Hi... I'm Alexandre 👋</h1>
+<h1>Hi... I'm Alexandre
 
 <p>A Full Stack Developer and an advocate for building responsive, accessible and inclusive digital products and experiences for the web based in Nairobi, Kenya.</p>
-
-<ul>
-  <li>Open to project collaborations</li>
-  <li>You can reach me through: 
-    <a href="#"><img src="https://img.shields.io/badge/WEBSITE-FF7139?style=for-the-badge&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </li>
-  <li>NOTE : You can fork and contribute to any of the projects 👏</li>
-</ul>
-
-<h2>👨‍💻 My Recent Projects</h2>
-
-<ol>
-  <li><a href="#">Vet management system</a></li>
-  <li><a href="#">Movies website</a></li>
-  <li><a href="#">Photo search gallery</a></li>
-  <li><a href="#">Time tracking dashboard</a></li>
-  <li><a href="#">Blog for all developers</a></li>
-  <li><a href="#">Multi-step form</a></li>
-  <li><a href="#">Age Calculator</a></li>
-  <li><a href="#">Expenses chart component</a></li>
-  <li><a href="#">Advice generator app</a></li>
-  <li><a href="#">Huddle Landing page</a></li>
-  <li><a href="#">Huddle Landing page with alternating feature blocks</a></li>
-  <li><a href="#">Fylo Landing Page</a></li>
-  <li><a href="#">Clipboard Landing Page</a></li>
-  <li><a href="#">Pricing component with toggle</a></li>
-  <li><a href="#">Blogr Landing Page</a></li>
-  <li><a href="#">Social proof section</a></li>
-  <li><a href="#">Blog preview card</a></li>
-  <li><a href="#">Social profile card</a></li>
-  <li><a href="#">Four card feature section</a></li>
-</ol>
 
 <h2>🛠️ Languages and Tools:</h2>
 
